@@ -1,8 +1,8 @@
 #Twitter-frontend
-a twitter-like frontend project based on React.
-**Project Display**
-**https://twitter-frontend-mobile.netlify.app/** 
-use mobile device to open or press F12 to change to mobile size by PC
+a twitter-like frontend project based on React.  
+**Project Display**  
+**https://twitter-frontend-mobile.netlify.app/**   
+use mobile device to open or press F12 to change to mobile size by PC  
 ##how to start :
 npm start
 
@@ -25,8 +25,8 @@ Utilizing json-server
 
 
 ##React Five-Step Creation Process
--1.Divide the designed UI into component hierarchy <div>
--2.Create a static version with React
+-1.Divide the designed UI into component hierarchy <div>  
+-2.Create a static version with React  
 -3.Determine the minimal and complete representation of UI state
 
 
