@@ -27,7 +27,7 @@ Utilizing json-server
 
 
 ##React Five-Step Creation Process  
--1.Divide the designed UI into component hierarchy <div>  
+-1.Divide the designed UI into component hierarchy  
 -2.Create a static version with React  
 -3.Determine the minimal and complete representation of UI state  
 
