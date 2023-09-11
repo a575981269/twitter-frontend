@@ -1,0 +1,16 @@
+.header{
+    height:50px;
+    text-align: center;
+}
+
+.closeIcon{
+    position:absolute;
+    top:18px;
+    left:18px;
+    font-size:16px;
+}
+
+.twitterLogo{
+    height:30px;
+    margin-top: 10px;
+}

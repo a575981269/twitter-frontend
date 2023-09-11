@@ -1,0 +1,43 @@
+
+@import '../../common.module.scss';
+
+.tInput{
+    composes: input from '../../common.module.scss';
+    position: relative;
+}
+.tInputFocused{
+    composes:tInput;
+    border:solid 2px $tBlue;
+}
+.label {
+    position: absolute;
+    top: 13px;
+    left: 10px;
+    color:#cecece;
+    box-sizing:border-box;
+    width:100%;
+    padding-right:20px;
+    z-index:-1;
+    transition: all 0.3s;
+}
+
+.labelFocused {
+    composes:label;
+    top:5px;
+    color:$tBlue;
+    font-size: 14px;
+}
+
+
+.labelRight{
+    float:right;
+}
+
+.inputItem{
+    height:53px;
+}
+
+.inputItemFocused{
+    margin-top:15px;
+    height:30px;
+}
