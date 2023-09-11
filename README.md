@@ -1,7 +1,8 @@
 #Twitter-frontend
-
 a twitter-like frontend project based on React.
-
+**Project Display**
+**https://twitter-frontend-mobile.netlify.app/** 
+use mobile device to open or press F12 to change to mobile size by PC
 ##how to start :
 npm start
 
