@@ -36,8 +36,15 @@ Utilizing json-server
 - CSS cannot write nested styles
 - Sass/SCSS for writing simple nested styles, eventually compiles to CSS, requires installing Sass
 - CSS modules eliminate concerns about namespace collisions, preventing style overrides
-
+- decide the position where to put state
 
 ##Engineering Configuration Information  
 -craco.config.js: A shortcut for configuring Webpack files  
 -jsconfig.js: A JavaScript-related configuration file for use with VS Code  
+
+>> git add .
+>> git commit -m "Update code"
+>>
+>> # 将更改推送到 GitHub
+>> git push origin main
+>>
